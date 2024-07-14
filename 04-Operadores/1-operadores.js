@@ -44,4 +44,3 @@ console.log(myObj);
 
 delete myObj.age;
 console.log(myObj);
-
